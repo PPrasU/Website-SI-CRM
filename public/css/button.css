@@ -1,0 +1,39 @@
+.btn-tambah {
+    background-color: #197ad4;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+.btn-tambah:hover {
+    background-color: #379eff;
+}
+.btn-tambah a {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.btn-simpan {
+    width: 100%;
+}
+.table-data {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+th,
+td {
+    border: 1px solid black;
+    padding: 5px 20px;
+}
+.button-tambah > .btn-primary {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+}
+a {
+    color: rgb(255, 255, 255);
+}
